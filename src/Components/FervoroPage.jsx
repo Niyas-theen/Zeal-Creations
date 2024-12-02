@@ -31,7 +31,7 @@ const FervoroPage = () => {
             className="absolute w-full bg-[#faf9f6] bottom-0 left-0 right-0 h-16 flex justify-center items-center tetx-[#11302b] font-serif text-xl lg:bg-transparent lg:justify-end lg:text-[#faf9f6] lg:font-[Hanken Grotesk] lg:text-2xl lg:font-extralight lg:pr-10"
             href="#"
           >
-            Explore Now
+            FERVORO
           </a>
         </div>
       </div>
