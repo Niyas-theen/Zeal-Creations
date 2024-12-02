@@ -6,7 +6,7 @@ const HeroBanner = () => {
       <div className="w-full flex justify-center items-center py-2">
         <img
           className="relitive w-full h-[550px] object-cover md:h-[600px] lg:w-[80%] lg:h-full"
-          src="Main Banner.jpg"
+          src="MainBanner.png"
           alt="Hero Banner"
         />
         <div className="absolute w-[88%] h-[45%] bg-[#222222] flex flex-col justify-center items-center text-center space-y-7 lg:w-[60%] lg:h-[40%]">
