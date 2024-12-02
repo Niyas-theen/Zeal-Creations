@@ -22,7 +22,7 @@ const HeroBanner = () => {
               className="border-2 border-white px-8 py-2 text-white font-serif text-2xl hover:bg-white hover:text-black "
               type="button"
             >
-              Explote
+              Explore
             </button>
           </a>
         </div>
