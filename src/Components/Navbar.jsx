@@ -8,7 +8,7 @@ const Navbar = () => {
           <img
             className="w-16 lg:w-36 lg:pb-2
           "
-            src="./public/Main logo.svg"
+            src="Main logo.svg"
             alt="Main logo"
           />
         </a>

@@ -9,7 +9,7 @@ const FervoroPage = () => {
         <div className="absolute">
           <img
             className="relitive h-screen object-cover"
-            src="./public/Banner.png"
+            src="Banner.png"
             alt="Model"
           />
           <p className="font-[Hanken Grotesk] font-extralight hidden  lg:block lg:text-xl lg:font-extralight lg:text-[[#11302b] lg:absolute lg:w-[33%] lg:text-justify lg:bottom-72 lg:pl-5">
@@ -23,12 +23,12 @@ const FervoroPage = () => {
           <a href="#">
             <img
               className="absolute w-12 top-5 left-5 lg:w-20 "
-              src="./public/Logo.png"
+              src="Logo.png"
               alt="Logo"
             />
           </a>
           <a
-            className="absolute w-full bg-[#faf9f6] bottom-0 left-0 right-0 h-16 flex justify-center items-center tetx-[#11302b] font-serif text-2xl  lg:bg-transparent lg:justify-end lg:text-[#faf9f6] lg:font-[Hanken Grotesk] lg:text-xl lg:font-extralight lg:pr-10"
+            className="absolute w-full bg-[#faf9f6] bottom-0 left-0 right-0 h-16 flex justify-center items-center tetx-[#11302b] font-serif text-2xl gap-5 lg:bg-transparent lg:justify-end lg:text-[#faf9f6] lg:font-[Hanken Grotesk] lg:text-xl lg:font-extralight lg:pr-10"
             href="#"
           >
             FERVORO
